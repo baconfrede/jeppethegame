@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Jeppe-1.0";
 const contentToCache = [
-    "Build/WebBuildFinal.loader.js",
-    "Build/WebBuildFinal.framework.js",
-    "Build/WebBuildFinal.data",
-    "Build/WebBuildFinal.wasm",
+    "Build/FinalBuild.loader.js",
+    "Build/FinalBuild.framework.js",
+    "Build/FinalBuild.data",
+    "Build/FinalBuild.wasm",
     "TemplateData/style.css"
 
 ];
